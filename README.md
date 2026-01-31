@@ -7,7 +7,7 @@ To enable dynamic and intuitive analysis of business performance across:
 - Categories and Sub-Categories
 - Customer Segments
 - Shipping Modes
-- 
+  
 ## ❗ Business Problem
 Business stakeholders needed a clear and interactive way to monitor performance and quickly identify:
 - High and low performing segments
