@@ -23,7 +23,7 @@ Static reports limited exploratory analysis, making it difficult to derive actio
 - Segment-level insights
 - Ship mode impact on profitability
 - Time-based trend analysis
-- 
+  
 ## 🛠 Tools & Skills Used
 - **Tableau Public** – Data visualization & dashboarding
 - **Data Cleaning** – Performed prior to visualization
